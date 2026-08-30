@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the information below."
+title: "Detection and Prevention of Network Attacks Using Snort"
+type: software
+
+authors:
+  - given-names: "Naqeebullah"
+    family-names: "Niazai"
+    affiliation: "Department of Network Engineering, Faculty of Computer Science, Kabul Polytechnic University"
+
+  - given-names: "Zafar Khan"
+    family-names: "Armani"
+    affiliation: "Department of Network Engineering, Faculty of Computer Science, Kabul Polytechnic University"
+
+repository-code: "https://github.com/naqeebullahniazai/Detection-and-Prevention-of-Network-Attacks-Using-Snort"
+
+license: MIT
+
+keywords:
+  - cybersecurity
+  - network-security
+  - snort
+  - intrusion-detection
+  - intrusion-prevention
+  - machine-learning
+  - random-forest
+  - opencanary
+  - distributed-security
