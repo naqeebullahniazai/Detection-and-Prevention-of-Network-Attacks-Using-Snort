@@ -91,11 +91,38 @@ Architecture diagrams and screenshots will be available in the `docs` and `scree
 ## Research Paper
 
 A complete research paper describing the architecture, methodology, experimental evaluation, results, limitations, and future work is included in this repository.
+## Project Screenshots
 
+### 1. System Topology
+![System Topology](screenshots/system-topology-01.png)
+
+### 2. Security Dashboard
+![Security Dashboard](screenshots/security-dashboard-02.png)
+
+### 3. Snort Attack Detection
+![Snort Alerts](screenshots/snort-alerts-03.png)
+
+### 4. Collaborative Defense Mesh
+![Collaborative Defense](screenshots/collaborative-defense-04.png)
+
+### 5. Distributed IPS Response
+![Distributed IPS](screenshots/distributed-ips-05.png)
+
+### 6. AI Analytics
+![AI Analytics](screenshots/ai-analytics-06.png)
+
+### 7. Decoy Intelligence
+![Decoy Intelligence](screenshots/decoy-intelligence-07.png)
+
+### 8. Central System Events
+![System Events](screenshots/system-events-08.png)
+
+### 9. Incident Report
+![Incident Report](screenshots/incident-report-09.png)
 ## Authors
 
 **Naqeebullah Niazai**  
-**ZafarKhan Armani**
+**Zafar Khan Armani**
 
 Department of Network Engineering  
 Faculty of Computer Science  
