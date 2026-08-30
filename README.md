@@ -91,6 +91,7 @@ Architecture diagrams and screenshots will be available in the `docs` and `scree
 ## Research Paper
 
 A complete research paper describing the architecture, methodology, experimental evaluation, results, limitations, and future work is included in this repository.
+📄 [View / Download the Full Research Paper (PDF)](docs/Research_Paper_Detection_and_Prevention_of_Network_Attacks_Using_Snort.pdf)
 ## Project Screenshots
 
 ### 1. System Topology
